@@ -101,7 +101,3 @@ def raices_primitivas(p):
             if len(setPosiblesRaices) == len(range(1,p)):
                 raicesPrimitivas.append(contador)
     return raicesPrimitivas
-
-print((805727**87)%938477)
-
-# print(calcular_k(68,44,73))
