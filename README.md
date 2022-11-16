@@ -1,4 +1,4 @@
-# Lab5SeguridadInformatica
+# Lab6SeguridadInformatica
 TOMÁS ASTUDILLO
 WILLIAMS DURÁN
 
